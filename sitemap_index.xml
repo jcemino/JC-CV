@@ -13,5 +13,22 @@
       <priority>0.8</priority>
 
    </url>
+   
+   <url>
+
+      <loc>https://www.jceminento.ga/#about/loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
+   
+   
+   <url>
+
+      <loc>https://www.jceminento.ga/#/loc>
+
+      <changefreq>weekly</changefreq>
+
+   </url>
 
 </urlset> 
